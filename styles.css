@@ -1,0 +1,14 @@
+.container {
+	border: 2px solid black;
+	margin-top: 25px;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.ng-scope {
+	/*padding: 20px;*/
+	text-align: center;
+}
